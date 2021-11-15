@@ -1,0 +1,13 @@
+.form_id {
+    width: 100%;
+}
+.card-header{
+    background-color: dimgrey;
+    color: aliceblue;
+}
+.card-title{
+    color: black;
+}
+input[type="checkbox"]{
+    transform: scale(1.3);
+}
